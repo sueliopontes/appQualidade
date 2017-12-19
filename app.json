@@ -1,0 +1,8 @@
+{
+  "name": "appQualidade",
+  "description": "Projeto Qualidade Concreto",
+  "repository": "https://github.com/sueliopontes/appQualidade",
+  "logo": "https://github.com/sueliopontes/appQualidade",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
